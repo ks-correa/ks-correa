@@ -31,7 +31,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> 
+
 
 <h2 align="center">Connect with Me</h2>
 
