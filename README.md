@@ -56,50 +56,44 @@
 
 ## 🛠️ My Skills
 
-## 🧠 My Skills
-
 ### 🔤 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🚀 Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" />
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### 🧩 Problem Solving
 <p align="center">
-  <!-- LeetCode -->
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
-  
-  <!-- HackerRank -->
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
+  <img title="LeetCode" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+  <img title="HackerRank" height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
 </p>
 
 ### 🗄 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### 💻 Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img title="Windows" src="https://skillicons.dev/icons?i=windows" />
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
 </p>
-
 
 ---
 
