@@ -35,7 +35,7 @@
 <!-- CONNECT WITH ME -->
 <h2 align="left">Connect With Me</h2>
 
-<p align="left" style="margin-top: -10px;">
+<p align="center" style="margin-top: -5px; margin-bottom: 10px;">
   <a href="mailto:kevisan58@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<hr>
+<hr style="margin-top: 5px;">
 
 ---
 
