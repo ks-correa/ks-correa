@@ -84,8 +84,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> GitHub Stats
-
 
 <summary><h3>🔥 Streak Stats</h3></summary>
 <p align="center">
