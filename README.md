@@ -33,27 +33,29 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> 
 
+<h2 align="center">Connect with Me</h2>
+
 <p align="center">
-  <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevisan58@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
-</a>
-	
+  <!-- Instagram -->
+  <a href="https://instagram.com/ks-correa" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ks-correa" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GITHUB-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kevin-correa-693982314" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/kevin-correa-693982314" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/573132652920" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%25?style=plastic&logo=whatsapp&logoColor=white&color=25D366">
+  <a href="https://wa.me/573132652920" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
- <!-- Instagram (con el link que me diste) -->
-  <a href="https://github.com/ks-correa" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 
 ---
 
