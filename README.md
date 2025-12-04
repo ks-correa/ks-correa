@@ -36,14 +36,15 @@
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
+	
   <!-- Instagram -->
-  <a href="https://instagram.com/ks-correa" target="_blank" style="text-decoration:none;">
+  <a href="https://instagram.com/kessed.co" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/ks-correa" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GITHUB-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevisan58@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
