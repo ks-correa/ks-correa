@@ -32,30 +32,28 @@
 
 ---
 
-<!-- CONNECT -->
-<h2 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Handshake.gif?raw=true" width="40px"> Connect With Me</h2>
+<!-- CONNECT WITH ME -->
+<h2 align="left">Connect With Me</h2>
 
-<p align="center" style="margin-top: 10px;">
-
-  <a href="https://instagram.com/kessed.co" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevisan58@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left" style="margin-top: -10px;">
+  <a href="mailto:kevisan58@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/kevin-correa-693982314" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://wa.me/573132652920" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
+  <a href="https://instagram.com/kessed.co" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
-<br>
+<hr>
 
 ---
 
