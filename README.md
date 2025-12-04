@@ -38,8 +38,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevisan58@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
 </a>
-
-
+	
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kevin-correa-693982314" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
@@ -51,6 +50,10 @@
   </a>
 </p>
 
+ <!-- Instagram (con el link que me diste) -->
+  <a href="https://github.com/ks-correa" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
 ---
 
