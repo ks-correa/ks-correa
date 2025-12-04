@@ -91,32 +91,19 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> GitHub Stats
 
-<details>
+
 <summary><h3>🔥 Streak Stats</h3></summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinCorrea&theme=tokyonight_duo">
 </p>
-</details>
 
-<details>
+
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KevinCorrea&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinCorrea&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="200px"/>
 </p>
-</details>
 
-<details>
-<summary><h3>⚡ Recent GitHub Activity</h3></summary>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinCorrea&theme=github">
-</p>
-</details>
+
 
 ---
-
-## 🐍 Snake Eating My Contribution Graph
-
-<p align="center">
-	<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>
