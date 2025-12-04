@@ -49,7 +49,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
 </p>
 
 ### 🎨 Frontend Development
@@ -79,10 +78,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 
 <summary><h3>🔥 Streak Stats</h3></summary>
