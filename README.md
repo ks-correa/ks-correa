@@ -34,12 +34,27 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect With Me
 
 <p align="center">
-	<a href="mailto:kevisan58@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
-	<a href="https://github.com/ks-correa" target="_blank">
-  <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-</a>
-	<a href="#"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
+  <!-- Gmail -->
+  <a href="mailto:kevisan58@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ks-correa" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kevin-correa-693982314" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/573132652920" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%25?style=plastic&logo=whatsapp&logoColor=white&color=25D366">
+  </a>
 </p>
+
 
 ---
 
