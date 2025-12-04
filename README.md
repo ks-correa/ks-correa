@@ -35,14 +35,10 @@
 
 <p align="center">
   <!-- Gmail -->
-  <a href="mailto:kevisan58@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevisan58@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
+</a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/ks-correa" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kevin-correa-693982314" target="_blank">
