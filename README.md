@@ -56,19 +56,21 @@
 
 ## 🛠️ My Skills
 
+## 🧠 My Skills
+
 ### 🔤 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🚀 Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🛠 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -77,23 +79,27 @@
 </p>
 
 ### 🧩 Problem Solving
-<p>
-  <img src="https://skillicons.dev/icons?i=leetcode" />
-  <img src="https://skillicons.dev/icons?i=hackerrank" />
+<p align="center">
+  <!-- LeetCode -->
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+  
+  <!-- HackerRank -->
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
 </p>
 
 ### 🗄 Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### 💻 Operating Systems
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
+
 
 ---
 
