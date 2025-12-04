@@ -56,36 +56,43 @@
 
 ## 🛠️ My Skills
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+### 🔤 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+### 🚀 Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🧠 Problem Solving
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black">
-  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white">
+### 🧩 Problem Solving
+<p>
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://skillicons.dev/icons?i=hackerrank" />
 </p>
 
-### 🖥️ Operating Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
