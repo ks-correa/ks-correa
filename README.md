@@ -79,18 +79,12 @@
 
 ---
 
-
-<summary><h3>🔥 Streak Stats</h3></summary>
+## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinCorrea&theme=tokyonight_duo">
 </p>
 
 
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinCorrea&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinCorrea&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="200px"/>
-</p>
 
 
 
